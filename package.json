@@ -1,0 +1,14 @@
+{
+  "name": "typescript-output-dirs-bug",
+  "version": "1.0.0",
+  "description": "Bug in output dirs resolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vadim Macagon <vadim.macagon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.8.0-dev.20151126"
+  }
+}
